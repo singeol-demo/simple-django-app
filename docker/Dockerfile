@@ -1,5 +1,5 @@
 # The first instruction is what image we want to base our container on
-# We Use an official Python runtime as a parent image   
+# We Use an official Python runtime as a parent image    
 FROM python:3.10
 
 # Allows docker to cache installed dependencies between builds
